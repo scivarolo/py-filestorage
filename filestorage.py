@@ -37,4 +37,4 @@ class CarsList:
 
 cars = CarsList()
 
-cars.makes_models()
+print(cars.makes_models())
